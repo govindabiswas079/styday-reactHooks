@@ -39,7 +39,7 @@ function App() {
      <div className="container">
         <nav>
           <ul>
-            <li><Link to="/"> NewReactRouter </Link></li>
+            <li><Link to="/"> Prime </Link></li>
           </ul>
           <ul>
             {_contact}
